@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+
+        <link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen" title="no title" charset="utf-8">
+
+        <meta charset="utf-8">
+        <title>Заголовок окна</title>
+        <link rel="stylesheet" href="/css/master.css" type="text/css" media=screen>
+        <style>
+        
+            .box-model {
+
+                width: 250px;
+                height: 100px;
+                padding: 10px;
+                border: 10px solid red;
+                margin: 20px;
+
+                background: yellow;
+                line-height: 100px;
+                text-align: center;
+                font-weight: bold;
+
+            }
+            
+            .box-model_box {
+
+                box-sizing: border-box;
+                line-height: 60px;
+
+            }
+            
+            .box-model_inline {
+                display: inline;
+            }
+
+            .box-model_inline-block {
+
+                display: inline-block;
+
+            }
+
+        </style>
+
+        
+
+    </head>
+    <body>
+
+        <br><br>
+        <div class="container">
+            <div class="row">
+
+              <div class="span10">
+            
+                  <h2>Демо box-model</h2>
+                  <br>
+
+                  Абзац текста.
+
+                  <div class="box-model">block 250x100px</div>
+                  
+                  Второй абзац текста.
+
+                  <div class="box-model box-model_box">block 250x100px</div>
+
+                  Третий абзац текста.
+                  
+                  <div class="box-model box-model_inline">inline 250x100px</div>
+
+                  Четвертый абзац текста который специально длиннее чем все остальные чтобы был перенос.
+                  
+                  <div class="box-model box-model_inline-block">inline-block 250x100px</div>
+
+              </div>
+            </div>
+        </div>
+
+    </body>
+</html>

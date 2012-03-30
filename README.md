@@ -1,14 +1,14 @@
-Коллекця ссылок на материалы по HTML, CSS и JS
-==============================================
+Коллекция ссылок на материалы по HTML, CSS и JS
+===============================================
 
-Список полезных ссылок для желающих научиться верстать.
+Список полезных ссылок по верстке.
 
 
 Стандарты и справочники
 -----------------------
 
-[http://www.w3.org](http://www.w3.org) — здесь живет большинство стандартнов, первоисточник.    
-[http://htmlbook.ru/html/aside](http://htmlbook.ru/html/aside) - спрвочник по тегам и css-свойставм на русском языке.
+[http://www.w3.org](http://www.w3.org) — здесь живет большинство стандартов. Первоисточник.    
+[http://htmlbook.ru/html/aside](http://htmlbook.ru/html/aside) - справочник по тегам и css-свойствам на русском языке.
 
 [http://www.triin.net/temp/html-elements.html](http://www.triin.net/temp/html-elements.html) — поддержка html-тегов браузерами.    
 [http://caniuse.com](http://caniuse.com) — большой справочник поддержки стандартов браузерами.    
@@ -25,13 +25,13 @@
 -------------------------
 
 [http://diveintohtml5.info](http://diveintohtml5.info) — учебник по html5.    
-[http://softwaremaniacs.org/blog/category/primer/](http://softwaremaniacs.org/blog/category/primer/) — хорошие статьи про html/css: позиционирование, флоаты box-модель.
+[http://softwaremaniacs.org/blog/category/primer/](http://softwaremaniacs.org/blog/category/primer/) — хорошие статьи про html/css: позиционирование, флоаты, box-модель.
 
 
 Тестирование
 ------------
 
-[http://habrahabr.ru/post/114256/](http://habrahabr.ru/post/114256/) — чеклист верстки, внутри много плоезных ссылок на инструменты и валидаторы..
+[http://habrahabr.ru/post/114256/](http://habrahabr.ru/post/114256/) — чеклист верстки, внутри много полезных ссылок на инструменты и валидаторы.
 
 
 CSS-библиотеки и наборы стилей
@@ -42,7 +42,7 @@ CSS-библиотеки и наборы стилей
 
 [http://html5boilerplate.com/](http://html5boilerplate.com/) — популярный стартовый шаблон для создания сайтов.    
 [http://htmlemailboilerplate.com/](http://htmlemailboilerplate.com/) — популярный стартовый шаблон для html-писем.    
-[http://twitter.github.com/bootstrap/](http://twitter.github.com/bootstrap/) — CSS-фреймворк с большин набором готовых элементов.    
+[http://twitter.github.com/bootstrap/](http://twitter.github.com/bootstrap/) — CSS-фреймворк с большим набором готовых элементов.    
 [http://cssgrid.net/](http://cssgrid.net) — responsive сетка.
 
 [http://learnboost.github.com/stylus/](http://learnboost.github.com/stylus/) — надстройка над CSS, которая в него компилируется и которая добавляет к нему всякие интересные функции.
@@ -51,7 +51,7 @@ CSS-библиотеки и наборы стилей
 -----------------------------------------------
 
 [http://vitaly.harisov.name/article/independent-blocks.html](http://vitaly.harisov.name/article/independent-blocks.html) — статья про верстку независимыми блоками.    
-[http://bemclub.in/](http://bemclub.in/) — БЭМ. Методика оргинацзии и поддержки HTML/CSS/JS кода проекта.    
+[http://bemclub.in/](http://bemclub.in/) — БЭМ. Методика организации и поддержки HTML/CSS/JS кода проекта.    
 [http://bem.github.com/bem-method/pages/beginning/beginning.ru.html](http://bem.github.com/bem-method/pages/beginning/beginning.ru.html) — подробная статья про БЭМ-методологию.    
 [https://github.com/stubbornella/oocss/wiki](https://github.com/stubbornella/oocss/wiki) — объектно-ориентированная методика организации кода проектов.    
 [http://developer.yahoo.com/](http://developer.yahoo.com/) — статьи и инструменты для вебразработки от Yahoo! компиляция, тестирование, css-фреймворки.
@@ -60,23 +60,23 @@ CSS-библиотеки и наборы стилей
 Полезные JavaScript библиотеки
 ------------------------------
 
-[http://jquery.com/](http://jquery.com/) — самый популярный браузерный JavaScript0фреймворки для работы с DOM'ом и ajax-запросами.    
-[http://headjs.com/](http://headjs.com/) — подгрузчик и менеджер яваскриптов, подключатель тегов html5 для старых IE и всекое другое полезное.    
-[http://modernizr.com/](http://modernizr.com/) — билиотека проверяющая поддержку теми или иными бразуерами современных JavaScript и CSS конструкций.    
+[http://jquery.com/](http://jquery.com/) — самый популярный браузерный JavaScript-фреймворки для работы с DOM'ом и ajax-запросами.    
+[http://headjs.com/](http://headjs.com/) — подгрузчик и менеджер яваскриптов, подключатель тегов html5 для старых IE и всякое другое полезное.    
+[http://modernizr.com/](http://modernizr.com/) — библиотека проверяющая поддержку теми или иными бразуерами современных JavaScript и CSS конструкций.    
 [http://raphaeljs.com/](http://raphaeljs.com/) — библиотека для работы с векторной графикой.    
-[http://documentcloud.github.com/underscore/](http://documentcloud.github.com/underscore/) — набор полезных JavaScript функций и методов рпсширяющих стандартную функциональность языка.    
-[http://documentcloud.github.com/backbone/](http://documentcloud.github.com/backbone/) — клиентски MVC фреймворк на JavaScript.    
-[http://coffeescript.org/](http://coffeescript.org/) — надстройка над JvaScript'ом, которая позволяет писать порграммы на нем с более человеческим синтаксисом и которая потом умеет в него компилироваться.
+[http://documentcloud.github.com/underscore/](http://documentcloud.github.com/underscore/) — набор полезных JavaScript функций и методов расширяющих стандартную функциональность языка.    
+[http://documentcloud.github.com/backbone/](http://documentcloud.github.com/backbone/) — client-side MVC фреймворк на JavaScript.    
+[http://coffeescript.org/](http://coffeescript.org/) — надстройка над JavaScript'ом, которая позволяет писать программы на нем с более человеческим синтаксисом и которая потом умеет код в JavaScript компилировать.
 
-[http://nodejs.org/](http://nodejs.org/) — Javascript как клиентский язык программирования.
+[http://nodejs.org/](http://nodejs.org/) — Javascript как серверный язык программирования.
 
 
 SEO и индексация поисковиками
 -----------------------------
 
 [http://schema.org/](http://schema.org/) — понимаемый всеми крупными поисковиками список микрформатов.    
-[http://help.yandex.ru/webmaster/](http://help.yandex.ru/webmaster/) — правила и форматы яндекса по индексации.    
-[http://support.google.com/webmasters/](http://support.google.com/webmasters/) —  правила и стаднарты Google по индексации.
+[http://help.yandex.ru/webmaster/](http://help.yandex.ru/webmaster/) — правила и форматы Яндекса по индексации.    
+[http://support.google.com/webmasters/](http://support.google.com/webmasters/) —  правила и стандарты Google по индексации.
 
 Текстовые редакторы
 -------------------
@@ -89,13 +89,13 @@ SEO и индексация поисковиками
 [http://www.gnu.org/software/emacs/](http://www.gnu.org/software/emacs/)
 
 
-Инструменты для работы веб-разработки
--------------------------------------
+Инструменты для веб-разработки
+------------------------------
 
 [http://code.google.com/p/zen-coding/](http://code.google.com/p/zen-coding/) — библиотека сниппетов для быстрого написания html/css.    
-[https://github.com/imgo/imgo](https://github.com/imgo/imgo) — набор библиотек для опитимизации изображений.    
+[https://github.com/imgo/imgo](https://github.com/imgo/imgo) — набор библиотек для оптимизации изображений.    
 [https://github.com/afelix/csso](https://github.com/afelix/csso) — библиотека на node.js для сжатия и оптимизации CSS.    
-[http://csscomb.ru/](http://csscomb.ru/) - инстумент для сортировки css-правил в файлах.    
+[http://csscomb.ru/](http://csscomb.ru/) - инструмент для сортировки css-правил в файлах.    
 [http://yostudios.github.com/Spritemapper/](http://yostudios.github.com/Spritemapper/) — библиотека для автоматического создания спрайтов из картинок.
 
 
