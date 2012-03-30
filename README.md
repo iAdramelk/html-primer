@@ -71,6 +71,13 @@ CSS-библиотеки и наборы стилей
 [http://nodejs.org/](http://nodejs.org/) — Javascript как клиентский язык программирования.
 
 
+SEO и индексация поисковиками
+-----------------------------
+
+[http://schema.org/](http://schema.org/) — понимаемый всеми крупными поисковиками список микрформатов.    
+[http://help.yandex.ru/webmaster/](http://help.yandex.ru/webmaster/) — правила и форматы яндекса по индексации.    
+[http://support.google.com/webmasters/](http://support.google.com/webmasters/) —  правила и стаднарты Google по индексации.
+
 Текстовые редакторы
 -------------------
 
